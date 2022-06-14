@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c10779f-350e-42fe-bdf6-59e12a8cc1ac" name="변경" comment="pycharm 에서 git 사용 설정.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2c10779f-350e-42fe-bdf6-59e12a8cc1ac" name="변경" comment="환경 파일 수정." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654853864796</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="환경 파일 수정.">
+      <created>1655168254990</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655168254990</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,7 +157,8 @@
     <MESSAGE value="프로젝트 생성." />
     <MESSAGE value="전역 변수, 지역 변수, global 사용하기." />
     <MESSAGE value="pycharm 에서 git 사용 설정." />
-    <option name="LAST_COMMIT_MESSAGE" value="pycharm 에서 git 사용 설정." />
+    <MESSAGE value="환경 파일 수정." />
+    <option name="LAST_COMMIT_MESSAGE" value="환경 파일 수정." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
